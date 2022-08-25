@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @speculator2000
-- 👀 I’m interested in creating supply chain Operations & Stock Trading models with Python and various visualization tools
+- 👀 I’m interested in creating supply chain operations & stock trading models with Python and various visualization tools
 - 🌱 I’m currently learning machine learning algoritms
 - 💞️ I’m looking to collaborate on interesting modeling opportunities
 - 📫 How to reach me ...speculator2000@yahoo.com
